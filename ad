@@ -1,0 +1,83 @@
+[33mcommit ccc5f9b3992932e0b858cb904759c2ec184f3c1b[m
+Merge: ccc191d 76618ec
+Author: s3501497 <s3501497@student.rmit.edu.au>
+Date:   Tue Nov 8 20:13:13 2016 +1000
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       AAAA/Assets/Untitled.unity
+    #       AAAA/Library/CurrentLayout.dwlt
+    #       AAAA/Library/InspectorExpandedItems.asset
+    #       AAAA/Library/ScriptAssemblies/Assembly-CSharp.dll
+    #       AAAA/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    #       AAAA/Library/assetDatabase3
+    #       AAAA/Library/metadata/00/00000000000000004000000000000000
+    #       AAAA/Library/metadata/00/00000000000000006100000000000000
+    #       AAAA/Library/metadata/00/00000000000000008100000000000000
+    #       AAAA/Library/metadata/00/00000000000000009000000000000000
+    #       AAAA/Library/metadata/00/0000000000000000a100000000000000
+    #       AAAA/Library/metadata/0e/0e45753c133ab44b4b57a6f68e0892d6
+
+[33mcommit ccc191d0a67d74d2d3b72883073dbb47e98b106e[m
+Author: s3501497 <s3501497@student.rmit.edu.au>
+Date:   Tue Nov 8 20:06:11 2016 +1000
+
+    Merge branch 'master' of https://github.com/JBettenay/BITS-Harambe-
+    
+    # Conflicts:
+    #       AAAA/Assets/Untitled.unity
+    #       AAAA/Library/CurrentLayout.dwlt
+    #       AAAA/Library/InspectorExpandedItems.asset
+    #       AAAA/Library/ScriptAssemblies/Assembly-CSharp.dll
+    #       AAAA/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    #       AAAA/Library/assetDatabase3
+    #       AAAA/Library/metadata/00/00000000000000004000000000000000
+    #       AAAA/Library/metadata/00/00000000000000006100000000000000
+    #       AAAA/Library/metadata/00/00000000000000008100000000000000
+    #       AAAA/Library/metadata/00/00000000000000009000000000000000
+    #       AAAA/Library/metadata/00/0000000000000000a100000000000000
+    #       AAAA/Library/metadata/0e/0e45753c133ab44b4b57a6f68e0892d6
+
+[33mcommit 3785bc89d4c1985721d7d113266dd4569af95ef3[m
+Author: s3501497 <s3501497@student.rmit.edu.au>
+Date:   Mon Nov 7 19:59:25 2016 +1000
+
+    Brett Commit
+    
+    Level Design
+
+[33mcommit 76618ec7f9cbfeaf225d8edd9f9a103a93a6ccda[m
+Author: JBettenay <s3632971@student.rmit.edu.au>
+Date:   Mon Nov 7 15:51:52 2016 +1000
+
+    Back to original
+    
+    Changing back to a black file
+
+[33mcommit b749d495a10dac46ed21d14932db63ae3ab5f063[m
+Merge: f2fc112 54decd0
+Author: JBettenay <josiahjbe@gmail.com>
+Date:   Thu Nov 3 14:18:23 2016 +1000
+
+    Merge pull request #1 from JBettenay/test
+    
+    Test
+
+[33mcommit 54decd00abfa5d302bf610f1105860c13968e62f[m
+Author: JBettenay <s3632971@student.rmit.edu.au>
+Date:   Thu Nov 3 14:16:42 2016 +1000
+
+    Test
+
+[33mcommit f2fc112175c6017847e87730234f279beb821398[m
+Author: JBettenay <s3632971@student.rmit.edu.au>
+Date:   Wed Nov 2 12:12:27 2016 +1000
+
+    Unity File
+
+[33mcommit bf38ebb236f6404ace0311cb43828078af6d85f1[m
+Author: JBettenay <josiahjbe@gmail.com>
+Date:   Wed Nov 2 12:10:20 2016 +1000
+
+    Initial commit
